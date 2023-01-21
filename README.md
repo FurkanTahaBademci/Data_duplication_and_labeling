@@ -8,10 +8,15 @@ In artificial intelligence , usage data is synthetically stored and replicated, 
 
 <br>
 
+## İnput
 
 <img src="https://raw.githubusercontent.com/furkantahabademci/Data_duplication_and_labeling/main/examples/input.jpeg?token=GHSAT0AAAAAAB5RWSHSEVWSGNEGDKVUHK2UY6LSXKQ" width="256"/>
 
+## Output
+
 <img src="https://raw.githubusercontent.com/furkantahabademci/Data_duplication_and_labeling/main/examples/output.jpeg?token=GHSAT0AAAAAAB5RWSHTWYOMG4RWEIPOZICCY6LSYAQ" width="256"/>
+
+## Labeling
 
 <img src="https://raw.githubusercontent.com/furkantahabademci/Data_duplication_and_labeling/main/examples/labelimg.jpg?token=GHSAT0AAAAAAB5RWSHSDLOP3KKRXHVB3OSSY6LSYUQ" width="256"/>
 
