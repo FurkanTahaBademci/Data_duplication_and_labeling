@@ -6,19 +6,16 @@ Yapay zeka algoritmalarında kullanılacak verilerin sentetik olarak çoğaltıl
 
 In artificial intelligence , usage data is synthetically stored and replicated, while at the same time, yolo label format is saved. to be added needs backgroundless images in .png format.
 
-<br>
 
 ## İnput
 
 <img src="https://raw.githubusercontent.com/furkantahabademci/Data_duplication_and_labeling/main/examples/input.jpeg" width="700"/>
 
-<br>
 
 ## Output
 
 <img src="https://raw.githubusercontent.com/furkantahabademci/Data_duplication_and_labeling/main/examples/output.jpeg" width="700"/>
 
-<br>
 
 ## Labeling
 
