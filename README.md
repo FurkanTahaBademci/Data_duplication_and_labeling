@@ -49,13 +49,13 @@ Proje dizinine gidin
 
 Gerekli paketleri yükleyin
 
-```bash
-  pip install requirements.txt
-```
+
 Görüntüleri ve txt belgelerini ./input klasorüne ekleyin 
 <br>
 <br>
 Txt belgelerini ./output klasorüne ekleyin 
+<br>
+
 
 ```bash
   pip install requirements.txt
