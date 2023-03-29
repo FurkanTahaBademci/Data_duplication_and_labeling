@@ -29,7 +29,7 @@ In artificial intelligence , usage data is synthetically stored and replicated, 
 - Birden fazla nesneyi ekleme ve farklı tuş kombinasyonlarına atama
 - Çoğaltma işlemi yaparken eş zamanlı etiket de yapılması
 - Kolay kullanım
-
+- Eş zamanlı etiketleme
 <br>
 
   
