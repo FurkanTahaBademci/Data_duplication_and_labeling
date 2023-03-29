@@ -52,6 +52,14 @@ Gerekli paketleri yükleyin
 ```bash
   pip install requirements.txt
 ```
+Görüntüleri ve txt belgelerini ./input klasorüne ekleyin 
+<br>
+<br>
+Txt belgelerini ./output klasorüne ekleyin 
+
+```bash
+  pip install requirements.txt
+```
 
 Kodu çalıştırın
 
