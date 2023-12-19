@@ -58,7 +58,7 @@ Txt belgelerini ./output klasorüne ekleyin
 
 
 ```bash
-  pip install requirements.txt
+  pip install -r requirements.txt
 ```
 
 Kodu çalıştırın
